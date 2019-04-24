@@ -1,0 +1,111 @@
+
+h1{color:black;
+font-size: 10em;line-height:0.5;margin-left: 20%}
+
+body{background-image: url(1.jpg);
+ background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed}
+
+.whitetext{color:white;
+line-height: 1.6em;
+margin-top:10px;
+margin-bottom:10px;
+
+}
+.whitetextp1{color:white;
+    font-family:"My other Custom Font";
+        }
+
+h2{color:black;
+font-size: 10em;line-height:0.5;margin-left: 23%;}
+body{background-image: url(1.jpg);
+ background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed}
+
+.whitetext{color:white;
+line-height: 1.6em;
+margin-top:10px;
+margin-bottom:10px;
+
+}
+.whitetextp1{color:white;
+    font-family:"My other Custom Font";
+        }
+
+
+h3{color:black;
+font-size: 10em;line-height:0.5;margin-left: 20%}
+body{background-image: url(1.jpg);
+ background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed}
+
+.whitetext{color:white;
+line-height: 1.6em;
+margin-top:10px;
+margin-bottom:10px;
+
+}
+.whitetextp1{color:white;
+    font-family:"My other Custom Font";
+        }
+
+h4{color:black;
+font-size: 10em;line-height:0.5;margin-left: 20%}
+body{background-image: url(1.jpg);
+ background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed}
+
+.whitetext{color:white;
+line-height: 1.6em;
+margin-top:10px;
+margin-bottom:10px;
+
+}
+.whitetextp1{color:white;
+    font-family:"My other Custom Font";
+        }
+
+
+
+
+.container{
+    width:80%;
+    display:grid;
+    grid-template-columns:1fr 2fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    margin-left: 10%;
+    
+}
+
+.imgcontainer{
+    width:80%;
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    margin-left: 10%;
+    
+}
+
+.container2{
+    width:80%;
+    display:grid;
+    grid-template-columns:1fr 2fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    margin-left: 10%;}
+
+.imgcontainer>img{width:80%;}
+
+ @font-face{
+            
+            font-family:"My other Custom Font";
+            src:url('Adonais.ttf');
+        }
+
+h5{background-size: cover;margin-left: 20%}
